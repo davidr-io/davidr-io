@@ -1,7 +1,7 @@
 Hi there 👋<br>
+My name is David :cowboy_hat_face: <br>
 I'm currently a computer science/cybersecurity student at Clemson University 🐅<br>
-Expected grad date: May 2025 ⚡<br>
-
+My expected graduation date: May 2025 ⚡<br>
 
 **Currently proficient in:**
 <div style="display: flex;">
@@ -11,5 +11,10 @@ Expected grad date: May 2025 ⚡<br>
   <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt="Java">
   <img src="https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
 </div>
-
-I'm familiar with HTML/CSS/JS and am actively improving my understanding through the creation of my website 💻
+🌱 I'm learning and increasing my understanding of <br>
+<div style="display: flex;">
+  <img src="https://img.shields.io/badge/HTML-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
+  <img src="https://img.shields.io/badge/CSS-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS">
+  <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript">
+</div> <br>
+🔭through the creation of my website :computer: <br>
