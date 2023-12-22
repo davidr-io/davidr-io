@@ -1,5 +1,9 @@
-Hi there 👋<br>
-My name is David :cowboy_hat_face: <br>
+<span style="font-size: 2em;">
+  Hi there 👋<br>
+  My name is David 🤠<br>
+  This is some text in double size.
+</span>
+
 I'm currently a computer science/cybersecurity student at Clemson University 🐅<br>
 My expected graduation date: May 2025 ⚡<br>
 
