@@ -1,6 +1,7 @@
-Hi there 👋
-I'm currently a computer science/cybersecurity student at Clemson University 🐅
-Expected grad date: May 2025 ⚡
+Hi there 👋<br>
+I'm currently a computer science/cybersecurity student at Clemson University 🐅<br>
+Expected grad date: May 2025 ⚡<br>
+
 
 **Currently proficient in:**
 <div style="display: flex;">
