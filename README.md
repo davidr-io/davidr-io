@@ -35,6 +35,6 @@ My expected graduation date: May 2025 ⚡<br>
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
   <a href="https://your_x_profile_url">
-    <img src="https://img.shields.io/badge/<black>?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
+    <img src="https://img.shields.io/badge/X-<black>?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
   </a>
 </div>
