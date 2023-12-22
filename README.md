@@ -15,6 +15,7 @@ My expected graduation date: May 2025 ⚡<br>
   <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt="Java">
   <img src="https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
 </div>
+
 ### 🌱 I'm learning and improving my understanding of <br>
 <div style="display: flex;">
   <img src="https://img.shields.io/badge/HTML-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
@@ -22,6 +23,7 @@ My expected graduation date: May 2025 ⚡<br>
   <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript">
 </div>
 🔭through the creation of my website :computer: <br>
+
 ### 📫How to reach me<br><br>
 <div display="flex">
   <a href="https://www.linkedin.com/in/dcrochester/">
