@@ -18,3 +18,15 @@ My expected graduation date: May 2025 ⚡<br>
   <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript">
 </div>
 🔭through the creation of my website :computer: <br>
+📫How to reach me<br><br>
+<div display="flex">
+  <a href="https://www.linkedin.com/in/dcrochester/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://www.instagram.com/hadrochester">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="https://your_x_profile_url">
+    <img src="https://img.shields.io/badge/X-<X_COLOR>?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
+  </a>
+</div>
