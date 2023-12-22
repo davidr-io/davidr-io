@@ -1,7 +1,9 @@
-<span style="font-size: 4em;">
+<p style="font-size: 2em;">
   Hi there 👋<br>
   My name is David 🤠<br>
-</span>
+  This is some text in double size.
+</p>
+
 
 I'm currently a computer science/cybersecurity student at Clemson University 🐅<br>
 My expected graduation date: May 2025 ⚡<br>
