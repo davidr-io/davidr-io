@@ -1,8 +1,7 @@
-<p style="font-size: 2em;">
-  Hi there 👋<br>
+
+ ## Hi there 👋<br>
   My name is David 🤠<br>
-  This is some text in double size.
-</p>
+
 
 
 I'm currently a computer science/cybersecurity student at Clemson University 🐅<br>
