@@ -44,5 +44,9 @@ My expected graduation date: May 2025 ⚡<br>
   <a href="https://www.instagram.com/hadrochester">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
-
+<!-- Certificates -->
+  <p>Certificates:</p>
+  <a href="[Your_Certificate_Link]">
+    <img src="[Your_Certificate_Image_URL]" alt="CompTIA SY0-701" style="width: 150px; height: auto;">
+  </a>
 </div>
