@@ -29,10 +29,11 @@ My expected graduation date: May 2025 ⚡<br>
 
 <div style="display: flex; justify-content: space-around;">
 
-  <!-- Personal Webpage -->
+<div style="display: flex; justify-content: space-around;">
   <h1 style="font-size: 12px;">Personal Webpage and Socials</h1>
+  <!-- Personal Webpage -->
   <a href="https://drochester.netlify.app/" target="_blank">
-    <img src="./space_fav.png" alt="Personal Webpage" style="width: 150px; height: auto;">
+    <img src="./space_fav.png" alt="Personal Webpage" style="max-width: 150px; height: auto;">
   </a>
 
   <!-- LinkedIn -->
