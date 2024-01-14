@@ -38,7 +38,7 @@ My expected graduation date: May 2025 ⚡<br>
   <a href="https://www.instagram.com/hadrochester">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
-
+  
   <!-- Certificates -->
   <h1 style="font-size: 24px;">Certificates:</h1>
   <a href="[Your_Certificate_Link]">
