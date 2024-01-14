@@ -4,7 +4,9 @@
 
 
 I'm currently a computer science/cybersecurity student at Clemson University 🐅<br>
-🖥️Undergraduate TA for CS1🖥️<br>
+<ul>
+  <li>🖥️Undergraduate TA for CS1🖥️</li>
+</ul>
 My expected graduation date: May 2025 ⚡<br>
 
 ### **Currently proficient in:**
