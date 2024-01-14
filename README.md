@@ -39,6 +39,12 @@ My expected graduation date: May 2025 ⚡<br>
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
 
+  <!-- Learning Badges -->
+  <h1 style="font-size: 24px;">Learning Badges:</h1>
+  <img src="[Badge1_URL]" alt="Badge 1" style="width: 150px; height: auto;">
+  <img src="[Badge2_URL]" alt="Badge 2" style="width: 150px; height: auto;">
+  <!-- Add more learning badges as needed -->
+
   <!-- Certificates -->
   <h1 style="font-size: 24px;">Certificates:</h1>
   <a href="[Your_Certificate_Link]">
