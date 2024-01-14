@@ -47,7 +47,7 @@ My expected graduation date: May 2025 ⚡<br>
   <!-- Certificates -->
 <h1 style="font-size: 24px;">Certificates</h1>
 <a href="[Your_Certificate_Link]">
-  <img src="./sec+" alt="CompTIA SY0-701" style="width: 150px; height: auto;">
+  <img src="./sec+.jpeg" alt="CompTIA SY0-701" style="width: 150px; height: auto;">
 </a>
 
 
