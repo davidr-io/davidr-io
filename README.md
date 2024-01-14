@@ -1,5 +1,7 @@
 ## Hi there 👋<br>
-## My name is David 🤠<br>
+ ## My name is David 🤠<br>
+
+
 
 I'm currently a computer science/cybersecurity student at Clemson University 🐅<br>
 My expected graduation date: May 2025 ⚡<br>
@@ -24,15 +26,12 @@ My expected graduation date: May 2025 ⚡<br>
 
 ### 📫How to reach me<br><br>
 
-<div style="display: flex; align-items: center; justify-content: space-around;">
-
+<div style="display: flex; justify-content: space-around;">
+  <p>My Webpage</p>
   <!-- Personal Webpage -->
   <a href="https://drochester.netlify.app/" target="_blank">
     <img src="./space_fav.png" alt="Personal Webpage" style="width: 150px; height: auto;">
   </a>
-
-  <!-- Emoji pointing right -->
-  <span>➡️</span>
 
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/dcrochester/">
