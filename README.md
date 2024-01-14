@@ -28,11 +28,11 @@ My expected graduation date: May 2025 ⚡<br>
 ### 📫How to reach me<br><br>
 
 <div style="display: flex; justify-content: space-around;">
+
   <!-- Personal Webpage -->
   <a href="https://drochester.netlify.app/" target="_blank">
     <img src="./space_fav.png" alt="Personal Webpage" style="width: 150px; height: auto;">
   </a>
-</div>
 
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/dcrochester/">
@@ -43,4 +43,5 @@ My expected graduation date: May 2025 ⚡<br>
   <a href="https://www.instagram.com/hadrochester">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
+
 </div>
