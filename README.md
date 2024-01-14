@@ -4,6 +4,7 @@
 
 
 I'm currently a computer science/cybersecurity student at Clemson University 🐅<br>
+🖥️Undergraduate TA for CS1🖥️
 My expected graduation date: May 2025 ⚡<br>
 
 ### **Currently proficient in:**
@@ -44,9 +45,9 @@ My expected graduation date: May 2025 ⚡<br>
   </a>
 
   <!-- Certificates -->
-<h1 style="font-size: 24px;">Certificates:</h1>
+<h1 style="font-size: 24px;">Certificates</h1>
 <a href="[Your_Certificate_Link]">
-  <img src="./path/to/your/certificate-image.jpg" alt="CompTIA SY0-701" style="width: 150px; height: auto;">
+  <img src="./sec+" alt="CompTIA SY0-701" style="width: 150px; height: auto;">
 </a>
 
 
