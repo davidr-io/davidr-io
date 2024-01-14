@@ -5,7 +5,7 @@
 <ul>
   <li>I'm currently a computer science/cybersecurity student at Clemson University 🐅</li>
   <li>🖥Undergraduate TA for CS1🖥️</li>
-  <li>My expected graduation date: May 2025 ⚡</li>
+  <li>Expected graduation date: May 2025 ⚡</li>
 </ul>
 
 ### **Currently proficient in:**
