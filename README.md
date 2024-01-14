@@ -2,12 +2,11 @@
  ## My name is David 🤠<br>
 
 
-
-I'm currently a computer science/cybersecurity student at Clemson University 🐅<br>
 <ul>
-  <li>🖥️Undergraduate TA for CS1🖥️</li>
+  <li>I'm currently a computer science/cybersecurity student at Clemson University 🐅</li>
+  <li>🖥Undergraduate TA for CS1🖥️</li>
+  <li>My expected graduation date: May 2025 ⚡</li>
 </ul>
-My expected graduation date: May 2025 ⚡<br>
 
 ### **Currently proficient in:**
 <div style="display: flex;">
