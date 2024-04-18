@@ -5,7 +5,7 @@
 <ul>
   <li>I'm currently a Junior in Computer Science/Cybersecurity student at Clemson University 🐅</li>
   <li>Undergraduate TA for Intro to Programming in C🖥️</li>
-  <li>Incoming Cybersecurity Engineer Intern at Booz Allen Hamilton<li>
+  <li>Incoming Cybersecurity Engineer Intern at Booz Allen Hamilton</li>
   <li>Expected graduation date: May 2025 ⚡</li>
 </ul>
 
